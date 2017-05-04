@@ -1,0 +1,5 @@
+F:\dpjia.penguin.work\Dpjia.WoodenCustomization\test demo\Win32Message\Win32HwndMessage\bin\Debug\Win32HwndMessage.dll
+F:\dpjia.penguin.work\Dpjia.WoodenCustomization\test demo\Win32Message\Win32HwndMessage\bin\Debug\Win32HwndMessage.pdb
+F:\dpjia.penguin.work\Dpjia.WoodenCustomization\test demo\Win32Message\Win32HwndMessage\obj\Debug\Win32HwndMessage.dll
+F:\dpjia.penguin.work\Dpjia.WoodenCustomization\test demo\Win32Message\Win32HwndMessage\obj\Debug\Win32HwndMessage.pdb
+F:\dpjia.penguin.work\Dpjia.WoodenCustomization\test demo\Win32Message\Win32HwndMessage\obj\Debug\Win32HwndMessage.csprojResolveAssemblyReference.cache

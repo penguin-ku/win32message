@@ -1,0 +1,11 @@
+F:\dpjia.penguin.work\Dpjia.WoodenCustomization\test demo\Win32Message\Win32Message\bin\Debug\Win32Message.exe.config
+F:\dpjia.penguin.work\Dpjia.WoodenCustomization\test demo\Win32Message\Win32Message\bin\Debug\Win32Message.exe
+F:\dpjia.penguin.work\Dpjia.WoodenCustomization\test demo\Win32Message\Win32Message\bin\Debug\Win32Message.pdb
+F:\dpjia.penguin.work\Dpjia.WoodenCustomization\test demo\Win32Message\Win32Message\obj\Debug\Win32Message.csprojResolveAssemblyReference.cache
+F:\dpjia.penguin.work\Dpjia.WoodenCustomization\test demo\Win32Message\Win32Message\obj\Debug\Win32Message.Properties.Resources.resources
+F:\dpjia.penguin.work\Dpjia.WoodenCustomization\test demo\Win32Message\Win32Message\obj\Debug\Win32Message.csproj.GenerateResource.Cache
+F:\dpjia.penguin.work\Dpjia.WoodenCustomization\test demo\Win32Message\Win32Message\obj\Debug\Win32Message.exe
+F:\dpjia.penguin.work\Dpjia.WoodenCustomization\test demo\Win32Message\Win32Message\obj\Debug\Win32Message.pdb
+F:\dpjia.penguin.work\Dpjia.WoodenCustomization\test demo\Win32Message\Win32Message\obj\Debug\Win32Message.FrmMain.resources
+F:\dpjia.penguin.work\Dpjia.WoodenCustomization\test demo\Win32Message\Win32Message\bin\Debug\Win32HwndMessage.dll
+F:\dpjia.penguin.work\Dpjia.WoodenCustomization\test demo\Win32Message\Win32Message\bin\Debug\Win32HwndMessage.pdb
